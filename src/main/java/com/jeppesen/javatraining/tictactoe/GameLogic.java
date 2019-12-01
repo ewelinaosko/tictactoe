@@ -22,7 +22,7 @@ public class GameLogic {
 
   public void print() {
 
-    System.out.println(" x\\y| 0 | 1 | 2 |");
+    System.out.println("x\\y| 0 | 1 | 2 |");
     System.out.println(" ----------------");
     System.out.println(
         "  0 | "
